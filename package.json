@@ -1,0 +1,41 @@
+{
+  "name": "mask-unpack",
+  "version": "1.0.0",
+  "description": "Takes a transparent image and splits its RGB and alpha components into two separate images",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "https://github.com/hughsk"
+  },
+  "dependencies": {
+    "ndarray-ops": "^1.2.2",
+    "zeros": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "color",
+    "alpha",
+    "rgb",
+    "split",
+    "rgba",
+    "png",
+    "transparent",
+    "mask",
+    "pack",
+    "unpack",
+    "separate"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/mask-unpack.git"
+  },
+  "homepage": "https://github.com/Jam3/mask-unpack",
+  "bugs": {
+    "url": "https://github.com/Jam3/mask-unpack/issues"
+  }
+}
